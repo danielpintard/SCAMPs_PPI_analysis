@@ -1,0 +1,2 @@
+Category	Term	Count	%	PValue	Genes	List Total	Pop Hits	Pop Total	Fold Enrichment	Bonferroni	Benjamini	FDR
+GOTERM_CC_DIRECT	GO:0005789~endoplasmic reticulum membrane	3	30.0	0.07261465721937459	POMT2, REEP5, XXYLT1	9	1181	20666	5.832909963307931	0.8362258087992959	1.0	1.0
